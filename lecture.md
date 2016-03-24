@@ -1,6 +1,7 @@
 #On a Piece of Chalk
-###Macmillan’s Magazine (1868)
-###Collected Essays VIII
+##Thomas Henry Huxley
+###Macmillan’s Magazine (1868), Collected Essays VIII
+
 
 If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as "chalk."
 
